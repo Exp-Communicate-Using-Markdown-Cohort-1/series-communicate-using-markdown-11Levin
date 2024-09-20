@@ -3,6 +3,7 @@
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+print("Hello Gitworld")
 ```
 - [x] List syntax is required
 - [x] This item is complete
